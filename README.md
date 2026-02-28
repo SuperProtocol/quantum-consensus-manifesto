@@ -3,11 +3,11 @@
 **The Problem**
 The AI-agent economy promises a world where agents buy services and make deals. But there is no portable trust: you can’t reliably verify honest execution, code immutability, or data safety. Sovereign AI is also stuck: countries want their own AI, yet they remain dependent on cloud infrastructure. “Global AI collaboration” is often pitched as “AI will become like the internet,” but AI still lives in silos, because trust does not transfer between organizations.
 
-(The linkage between these paragraphs still needs to be completed.)
+_(The linkage between these paragraphs still needs to be completed)_
 
 We need a neutral, protocol-level layer that turns trust into a verifiable fact: it makes privacy and correctness provable, and it coordinates participants without a single center. It must work across borders and distance, between jurisdictions, countries, and data centers, and be designed so that no single party can unilaterally seize control or halt the system.
 
-The first implementation stage is a consensus protocol. Everything else will be built on top of it in later stages (in a sense, an analogy to HTTPS as a foundation of the internet).
+The first implementation stage is a consensus protocol. Everything else will be built on top of it in later stages _(in a sense, an analogy to HTTPS as a foundation of the internet)_.
 
 Quantum entanglement provides a foundation for such a layer. It delivers physically unpredictable randomness, the impossibility of copying a quantum state, synchronized correlations across distance, and detectable interference. This makes it possible to build consensus where leader selection, task allocation, and round ordering rely not on trusting an operator, but on fundamental properties of the universe.
 
